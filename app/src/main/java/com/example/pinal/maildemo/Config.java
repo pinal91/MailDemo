@@ -5,6 +5,6 @@ package com.example.pinal.maildemo;
  */
 
 public class Config {
-    public static final String EMAIL ="pinal3291@gmail.com";
-    public static final String PASSWORD ="pinal.credencys";
+    public static final String EMAIL ="your mail id";
+    public static final String PASSWORD ="your password";
 }
